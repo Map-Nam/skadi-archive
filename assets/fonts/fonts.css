@@ -1,0 +1,9 @@
+/* Locally hosted subset generated from the site's own text.
+   Noto Serif SC is licensed under the SIL Open Font License 1.1. */
+@font-face {
+  font-family: "Abyss Serif";
+  font-style: normal;
+  font-weight: 300 700;
+  font-display: swap;
+  src: url("noto-serif-sc.woff2") format("woff2");
+}
